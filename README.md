@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjeruto
-- 👀 I’m interested in machine learning projects
+- 👀 I’m interested in machine and deep learning projects
 - 🌱 I’m currently learning deep learning algorithms
 - 💞️ I’m looking to collaborate on machine and deep learning projects
 - 📫 How to reach me via email; sjeruto@gmail.com
