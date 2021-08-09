@@ -9,6 +9,8 @@
  
  Things you should know about me:
  
+💞️ My background is in Economics and statistics
+💞️ I love math and its applications!
 👀 I’m interested in machine and deep learning projects
 🌱 I’m currently learning deep learning algorithms
 💞️ I’m looking to collaborate on machine and deep learning projects
