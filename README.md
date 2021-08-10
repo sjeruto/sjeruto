@@ -17,7 +17,7 @@
 👀 I’m interested in machine and deep learning projects
 🌱 I’m currently learning deep learning algorithms
 💞️ I’m looking to collaborate on machine and deep learning projects
-🌱 I'm currently building my online portfolio (The link to the site will be shared when requested) 
+🌱 I'm currently building my online portfolio (The link to the site will be shared when requested and once complete) 
 
 
 
@@ -41,7 +41,7 @@ My hobbies include:
   
 
 
-📫 How to reach me via email; sjeruto@gmail.com
+📫 How to reach me via email: sjeruto@gmail.com
 
 
 
