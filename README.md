@@ -7,6 +7,9 @@
  a data enthusiast with a passion for machine learning projects.
  
  
+ 
+ 
+ 
  Things you should know about me:
  
 💞️ My background is in Economics and statistics
@@ -17,19 +20,25 @@
 🌱 I'm currently building my online portfolio (The link to the site will be shared when requested) 
 
 
+
+
+
 My skills include:
 
 Python, R, MySQL, Tableau, Statistics and its application, Machine Learning algorithms
 
 
 
-My hobbies include;
-
-	Running
-	Reading (Massive reader)
-	Playing chess
 
 
+
+My hobbies include:
+
+🏃🏾‍♀ 	Running
+🤓	Reading (Massive reader)
+♟	Playing chess
+🏋️‍♀️.   Gym & Fitness
+  
 
 
 📫 How to reach me via email; sjeruto@gmail.com
