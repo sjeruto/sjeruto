@@ -35,7 +35,7 @@ Python, R, MySQL, Tableau, Statistics and its application, Machine Learning algo
 My hobbies include:
 
 🏃🏾‍♀ 	Running
-🤓	Reading (Immersive reader)
+🤓	Reading (Avid reader)
 ♟	Playing chess
 🏋️‍♀️.   Gym & Fitness
   
